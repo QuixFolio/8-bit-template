@@ -2,7 +2,7 @@
     "id":"8-bit-template",
     "name":"8 Bit Template",
     "description":"This is an 8 bit template",
-    "image":"",
+    "image":"image.png",
     "pages":{
       "name":"index.html",
       "summary":"index.html",
