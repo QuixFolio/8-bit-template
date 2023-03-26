@@ -2,6 +2,7 @@
     "id":"8-bit-template",
     "name":"8 Bit Template",
     "description":"This is an 8 bit template",
+    "tags":["retro"],
     "image":"image.png",
     "schema": {
     "cloneName": {
